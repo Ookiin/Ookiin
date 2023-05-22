@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andres Cantlon, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Andres Cantlon, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 👀 I’m interested in create apps to improve the life of the people  
