@@ -9,9 +9,6 @@
 - 👀 I’m interested in create apps to improve the life of the people  
   
 
-- 🌱 I’m currently learning Typescript, React Native, Angular and Next Js  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
